@@ -16,7 +16,7 @@ hard work we were proud to be accepted into the League.
 
 {{< fb_video >}}
 
-![](/images/club_house_600.jpg)
+![](../images/club_house_600.jpg)
 
 ## Facilities
 
@@ -31,7 +31,7 @@ hard work we were proud to be accepted into the League.
 {{< feature icon="fa-solid fa-champagne-glasses" text="Clubhouse, complete with bar selling food and drinks. (including darts and a free pool table)" >}}
 {{< feature icon="fa-solid fa-square-parking" text="Car park" >}}
 
-![](/images/pitch_with_dug_outs_600.jpg)
+![](../images/pitch_with_dug_outs_600.jpg)
 
 ## How to find us
 
