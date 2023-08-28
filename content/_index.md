@@ -24,7 +24,8 @@ Find our location and information about our facitlies [here](/ground#how-to-find
 
 {{< feeds >}}
 
-**Note**: Twitter may not show the most recent tweets due to a bug with browsers which have stricter security.
+**Note**: Facebook and Twitter feeds may not appear due to browsers security settings and changes in browsers default security settings.  *Sorry*.
+Please click the buttons above to view the streams on the specific platform.  Twitter seems to be slowing down the feed functionality on mobile so please be patient.
 
 ---
 
