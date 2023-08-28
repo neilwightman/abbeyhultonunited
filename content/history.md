@@ -34,7 +34,7 @@ in North Staffordshire, the [Staffordshire County Senior League](https://www.sta
 
 ## Roll Of Honor
 
-{{< figure src="/images/2017-07-08.png" title="Some of the many trophies that the club has won" alt="Some of the many trophies that the club has won" >}}
+{{< figure src="../images/2017-07-08.png" title="Some of the many trophies that the club has won" alt="Some of the many trophies that the club has won" >}}
 
 | *League*                                     |                                                       | *Year*     |
 |----------------------------------------------|-------------------------------------------------------|------------|
@@ -73,14 +73,14 @@ Abbey Hulton United Football Club is named after the Scheduled Monument of Hulto
 Hulton Abbey was a medieval Cistercian monastery located in Staffordshire, England. It was founded in [1219](https://www.stokemuseums.org.uk/pmag/galleries/archaeology/hulton-abbey/) by Henry de Audley and his wife Bertrade 
 de Mainwaring. The abbey was dedicated to St. Mary and quickly became an important religious and economic center in the region.
 
-{{< figure src="/images/hilton_abbey_plot_1670.jpg"
+{{< figure src="../images/hilton_abbey_plot_1670.jpg"
 alt="A map from 1670 shows Hulton Abbey as Hilton Abbey"
 title="A map from 1670 shows Hulton Abbey as Hilton Abbey" >}}
 
 Cistercian monasteries were known for their focus on simplicity, austerity, and self-sufficiency. They played a significant role in the medieval economy 
 by engaging in agricultural activities, such as farming and animal husbandry, and often had extensive land holdings.
 
-{{< figure src="/images/hulton-588x455.jpg" title="Artist’s reconstruction of Hulton Abbey Chapter House" alt="Artist’s reconstruction of Hulton Abbey Chapter House" >}}
+{{< figure src="../images/hulton-588x455.jpg" title="Artist’s reconstruction of Hulton Abbey Chapter House" alt="Artist’s reconstruction of Hulton Abbey Chapter House" >}}
 
 Hulton Abbey prospered over the years, amassing wealth and acquiring more land. The monks of Hulton Abbey were known for their wool production, which 
 was a valuable commodity during the medieval period. The abbey's wealth and influence continued to grow, and it became an integral part of the local community.
@@ -95,7 +95,7 @@ removed to be re-used in local buildngs.
 In 1963, Hulton Abbey was designated a Scheduled Monument, under the Ancient Monuments and Archaeological Areas Act 1979,
 however due to its poor condition it is considered Heritage at Risk. The site is now owned and managed by Stoke-on-Trent City Council.
 
-{{< figure src="/images/HULTON-EXCAV-622x408.jpg" title="Excavations at Hulton Abbey in 1989" alt="Excavations at Hulton Abbey in 1989">}}
+{{< figure src="../images/HULTON-EXCAV-622x408.jpg" title="Excavations at Hulton Abbey in 1989" alt="Excavations at Hulton Abbey in 1989">}}
 
 Today, only [ruins](https://ancientmonuments.uk/119473-hulton-abbey-a-cistercian-monastery-adjacent-to-leek-road-abbey-hulton-abbey-hulton-and-townsend-ward) remain as a testament to its once-thriving existence. The site is managed by English Heritage and is open to the public. 
 Visitors can explore the remains of the abbey, including the church walls, 
@@ -107,7 +107,7 @@ of religious institutions in the region.
 It had a recorded population of 3 households in 1086, putting it in the smallest 20% of settlements recorded in Domesday (NB: 3 households is an 
 estimate, since multiple places are mentioned in the same entry).
 
-{{< figure src="/images/doomsday.png" link="https://opendomesday.org/place/SJ9148/abbey-hulton/" title="Above: The entry from the doomsday book"  >}}
+{{< figure src="../images/doomsday.png" link="https://opendomesday.org/place/SJ9148/abbey-hulton/" title="Above: The entry from the doomsday book"  >}}
 
 ### Links
 
