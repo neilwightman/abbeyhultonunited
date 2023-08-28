@@ -1,0 +1,167 @@
+/* Support floating images */
+img[src$='#floatleft']
+{
+	float:left;
+	padding-right: 15px;
+}
+
+img[src$='#floatright']
+{
+	float:right;
+	padding-left: 15px;
+}
+
+img[src$='#small']
+{
+	width: 150px;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.footer-flex-container {
+  display: flex;
+  flex-direction: row;
+}
+
+/* Responsive layout - makes a one column layout instead of a two-column layout */
+@media (max-width: 800px) {
+  .footer-flex-container {
+      flex-direction: column;
+  }
+  .flex-container {
+    flex-direction: column;
+  }
+}
+
+/* Customisations */
+
+
+.measure-wide {
+  max-width: 45em;
+}
+
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+    border-top: 1px solid #dedede;
+    text-align: left;
+}
+th {
+    background: #dedede;
+}
+td, th {
+    margin: 2px, 2px, 2px, 2px;
+}
+
+.facebook {
+    max-width:360px;
+}
+
+p {
+    text-align: left;
+}
+ul {
+    text-align: left;
+}
+
+table > tbody > tr:nth-child(2n+1) {
+  background-color: #f2f2f2;
+}
+
+ul.no-bullets {
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove padding */
+}
+
+ul.no-bullets > li {
+    margin-top: 3px;
+}
+
+a {
+    color:#ff6300;transition:color .15s ease-in
+}
+a:focus,
+a:hover{
+    color:#ff4300;transition:color .15s ease-in
+}
+
+.nested-links a {
+    color:#ff6300;transition:color .15s ease-in
+}
+.nested-links a:focus,
+.nested-links a:hover{
+    color:#ff4300;transition:color .15s ease-in
+}
+
+.button {
+    display: inline;
+}
+.markdown-btn {
+  font-size: inherit;
+  font-family: inherit;
+  color: white !important;
+  background-color: #ff6300;
+  border-radius: 0px;
+  text-align: center;
+  padding: 10px 1em 5px 1em;
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+
+  &:hover,
+  &:active {
+    text-decoration: none;
+    background-color: #ff5300;
+    color: black !important;
+  }
+}
+
+figure {
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  border: thin silver solid;
+  margin: 0.5em;
+  padding: 0.5em;
+}
+figure figcaption h4 {
+    font-size: 0.75rem;
+}
+
+
+
+.feature {
+    vertical-align: top;
+    display: inline-block;
+    width: 190px;
+}
+.feature-icon {
+    color:#ff6300;
+    text-align: center;
+}
+.feature-text {
+    text-align: center;
+}
+
+nav {
+    background: white;
+}
+nav .ananke-socials a {
+  color: #ff6300;
+  fill: currentColor;
+}
+footer .ananke-socials a {
+  color: white;
+  fill: currentColor;
+}
+
+hr {
+   border-top: 1px solid #fefefe;
+   clear: left;
+}

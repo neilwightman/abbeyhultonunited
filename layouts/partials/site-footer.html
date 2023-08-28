@@ -1,0 +1,42 @@
+<footer class="{{ .Site.Params.background_color_class | default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
+<div class="flex justify-between footer-flex-container">
+  <div class="flex-even">
+    <p>
+    <h3>Get in touch</h3>
+    </p>
+    <p>
+      We prefer to be contacted via Facebook Messenger.<br><br>
+      <a href="https://www.facebook.com/abbeyhultonutd" class="f4 fw4 hover-white no-underline white-70 pv2 ph3"><i class="fa-brands fa-facebook"></i> Abbey Hulton Utd FC</a>
+    </p>
+  </div>
+  <div class="flex-even">
+    <h3>Contact</h3>
+    <ul class="no-bullets">
+      <li><i class="fa-solid fa-house"></i> Birches Head Road,</li>
+      <li>Abbey Hulton,</li>
+      <li>Stoke On Trent,</li>
+      <li>Staffordshire</li>
+      <li>ST2 8DD</li>
+    </ul>
+    <ul class="no-bullets">
+      <li><i class="fa-solid fa-phone"></i> 01782 570302</li>
+    </ul>
+  </div>
+  <div class="flex-even">
+    <h3><i class="fa-solid fa-message"></i></i> Social</h3>
+    <ul class="no-bullets">
+      <li><a href="https://twitter.com/HultonUtd" class="f4 fw4 hover-white no-underline white-70 pv2 ph3"><i class="fa-brands fa-twitter"></i> @HultonUtd</a></li>
+    </ul>
+    <ul class="no-bullets">
+      <li><a href="https://www.facebook.com/abbeyhultonutd" class="f4 fw4 hover-white no-underline white-70 pv2 ph3"><i class="fa-brands fa-facebook"></i> Abbey Hulton Utd FC</a></li>
+    </ul>
+  </div>
+</div>
+
+<div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="{{ .Site.Home.Permalink }}" >
+    &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
+  </a>
+  <div>{{ partial "social-follow.html" . }}</div>
+</div>
+</footer>
